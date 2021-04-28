@@ -1,0 +1,246 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "EMPLOYMENT_AND_JOB_TRAINING",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90995207229496, 49.20247126073089 ]
+			},
+			"properties" : {
+				"Name" : "Access (Aboriginal Community Career Employment Services Society)",
+				"Category" : "Employment and Job Training",
+				"Description" : "Provides skills and employment training programs for Aboriginal people.",
+				"Hours" : null,
+				"Location" : "201 - 681 Columbia St",
+				"PC" : "V3M 1A8",
+				"Phone" : "604-521-5929",
+				"Email" : null,
+				"Website" : "http://www.accessfutures.com/",
+				"X" : "-122.90995207229496",
+				"Y" : "49.20247126073089"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+			},
+			"properties" : {
+				"Name" : "Aunt Leah's Place",
+				"Category" : "Employment and Job Training",
+				"Description" : "Aunt Leah's Place has two employment programs: Bootstraps (skills development and job placements for youth from foster care) and Retail Training (a five week program learning how to navigate the retail industry)",
+				"Hours" : null,
+				"Location" : "816 Twentieth St",
+				"PC" : "V3M 4W6",
+				"Phone" : "(604)525-1204 ext.257 (Bootstraps), (604)525-1204 ext.232 (Retail Training)",
+				"Email" : "auntleahs@auntleahs.org",
+				"Website" : "https://auntleahs.org/services/education-training/",
+				"X" : "-122.94926011127286",
+				"Y" : "49.203235896852874"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91046936082033, 49.2021885308046 ]
+			},
+			"properties" : {
+				"Name" : "Community Living Society",
+				"Category" : "Employment and Job Training",
+				"Description" : "Has several employment programs for persons with developmental disabilities or brain injuries, including employment services, potteryworks, and studio73",
+				"Hours" : null,
+				"Location" : "7/F - 713 Columbia St",
+				"PC" : "V3M 1B2",
+				"Phone" : "(604)523-0303",
+				"Email" : "contactus@communitylivingsociety.ca",
+				"Website" : "https://www.communitylivingsociety.ca/our-services/work/",
+				"X" : "-122.91046936082033",
+				"Y" : "49.2021885308046"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+			},
+			"properties" : {
+				"Name" : "Douglas College ",
+				"Category" : "Employment and Job Training",
+				"Description" : "Has a several programs, including a Self Employment Program (offers practical training, business advice and group support to help people develop the skills and knowledge needed to start and operate a successful business) and an Essential Skills program (helps people facing multiple barriers in developing the foundation skills they need to achieve their career goals).",
+				"Hours" : "<Null>",
+				"Location" : "700 Royal Avenue",
+				"PC" : "V3M 5Z5",
+				"Phone" : "778-628-5996 (Self-Employment Program); 604-777-6152 (Essential Skills)",
+				"Email" : "sep@douglascollege.ca (self-employment), essentialskills@douglascollege.ca (Essential Skills)",
+				"Website" : "https://www.douglascollege.ca/programs-courses/training-group",
+				"X" : "-122.91274781516022",
+				"Y" : "49.20350201411526"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89242926128995, 49.22805504991801 ]
+			},
+			"properties" : {
+				"Name" : "Elizabeth Fry Society - Pat Ware Fund and Woolwerx",
+				"Category" : "Employment and Job Training",
+				"Description" : "Pat Ware Fund: This fund helps prepare women for employment by paying for training or necessary equipment. Woolwerx: Woolwerx is EFry’s social enterprise that employs both incarcerated women and those transitioning back to community life. Women receive training to clean, card and spin donated wool into artisanal yarns.",
+				"Hours" : null,
+				"Location" : "402 E Columbia St",
+				"PC" : "V3L 3X1",
+				"Phone" : "604-520-1166",
+				"Email" : "info@elizabethfry.com",
+				"Website" : "https://elizabethfry.com/we-can-help/programs-services/",
+				"X" : "-122.89242926128995",
+				"Y" : "49.22805504991801"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.920455471798, 49.21221745094712 ]
+			},
+			"properties" : {
+				"Name" : "Fraser Works New Westminster Employment Service Centre",
+				"Category" : "Employment and Job Training",
+				"Description" : "Employment support and referral through a case management approach. Fraserworks is a partnership between four agencies: Fraserside Community Services, Pacific Community Resources Society, AWARE Society and MOSAIC.",
+				"Hours" : "Monday-Friday: 8:30am-4:30pm",
+				"Location" : "2nd floor - 519 Seventh St",
+				"PC" : "V3M 6A7",
+				"Phone" : "604-522-9701 ext 123",
+				"Email" : "info@fraserworks.ca",
+				"Website" : "http://fraserworks.ca/",
+				"X" : "-122.920455471798",
+				"Y" : "49.21221745094712"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+			},
+			"properties" : {
+				"Name" : "Immigrant Services Society of BC",
+				"Category" : "Employment and Job Training",
+				"Description" : "Provides employment services for immigrants, including Jobquest program",
+				"Hours" : null,
+				"Location" : "280 - 610 Sixth St",
+				"PC" : "V3L 3C2",
+				"Phone" : "604-522-5902",
+				"Email" : "jobquest@issbc.org",
+				"Website" : "https://issbc.org/service-types/find-work",
+				"X" : "-122.92252572535635",
+				"Y" : "49.212490006536555"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91375364044025, 49.20825385976762 ]
+			},
+			"properties" : {
+				"Name" : "Inclusion BC - Ready, Willing & Able ",
+				"Category" : "Employment and Job Training",
+				"Description" : "Helps link persons with intellectual disabilities and Autism with job opportunities.",
+				"Hours" : null,
+				"Location" : "227 Sixth St",
+				"PC" : "V3L 3A5",
+				"Phone" : "(604)777-9100 ext.507",
+				"Email" : "kyeboah@inclusionbc.org",
+				"Website" : "http://www.inclusionbc.org/ready-willing-and-able",
+				"X" : "-122.91375364044025",
+				"Y" : "49.20825385976762"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91160236812978, 49.202383459116575 ]
+			},
+			"properties" : {
+				"Name" : "New Westminster Homelessness Coalition Society - I's on the Street",
+				"Category" : "Employment and Job Training",
+				"Description" : "Engages homeless and at risk of homeless persons in supervised employment cleaning and tidying the sidewalks/streets in front of local businesses. Also can connect homeless or at risk of homeless persons with employment and job training.",
+				"Hours" : null,
+				"Location" : "750 Carnarvon St",
+				"PC" : "V3M 1E7",
+				"Phone" : null,
+				"Email" : "info@nwhomeless.ca",
+				"Website" : "http://nwhomeless.ca/?page_id=144",
+				"X" : "-122.91160236812978",
+				"Y" : "49.202383459116575"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91148369358747, 49.204918351015046 ]
+			},
+			"properties" : {
+				"Name" : "Service Canada Centre",
+				"Category" : "Employment and Job Training",
+				"Description" : "Offers various employment related services.",
+				"Hours" : "Monday-Friday, 8:30am-4:00pm",
+				"Location" : "201 - 620 Royal Avenue",
+				"PC" : "V3M 1J2",
+				"Phone" : "1-800-926-9105",
+				"Email" : null,
+				"Website" : "http://www1.servicecanada.gc.ca/cgi-bin/sc-dsp.cgi?rc=5940&ln=e#pa",
+				"X" : "-122.91148369358747",
+				"Y" : "49.204918351015046"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91495268920971, 49.20918785377654 ]
+			},
+			"properties" : {
+				"Name" : "PosAbilities - Employment Services",
+				"Category" : "Employment and Job Training",
+				"Description" : "PosAbilities provides employment training and counselling services for individuals with developmental disabilities. PosAbilities also matches up these individuals and their needs with the needs of employers",
+				"Hours" : null,
+				"Location" : "#102-309 Sixth Street",
+				"PC" : "V3L 3A7",
+				"Phone" : "604-522-2601",
+				"Email" : "PESfeedback@posAbilities.ca",
+				"Website" : "https://pesworks.ca/about-us/",
+				"X" : "-122.91495268920971",
+				"Y" : "49.20918785377654"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91320048161775, 49.20719879187207 ]
+			},
+			"properties" : {
+				"Name" : "Aware Society - Job Options BC",
+				"Category" : "Employment and Job Training",
+				"Description" : "Job Options BC is a 10 week program designed to improve skills and obtain employment. ",
+				"Hours" : null,
+				"Location" : "#202-204 Sixth Street",
+				"PC" : "V3M 1L1",
+				"Phone" : "(604)553-8583",
+				"Email" : "info@awaresocietybc.ca",
+				"Website" : "http://www.awaresociety.bc.ca/employment-services/joboptionsbc.php",
+				"X" : "-122.91320048161775",
+				"Y" : "49.20719879187207"
+			}
+		}
+	]
+}

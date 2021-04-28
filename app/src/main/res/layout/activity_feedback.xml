@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FeedbackActivity"
+    android:background="@color/colorPrimaryDarker">
+    <include
+        layout="@layout/toolbar_main"
+        android:id="@+id/toolbar"/>
+
+    <EditText
+        android:id="@+id/namedata"
+        android:textCursorDrawable="@drawable/cursor_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:theme="@style/EditTextTheme"
+        android:textColorHint="@color/yellow"
+        android:textColor="@color/yellow"
+        android:inputType="textPersonName"
+        android:hint="@string/name2"
+        android:layout_margin="10dp"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/emaildata"
+        android:textCursorDrawable="@drawable/cursor_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:theme="@style/EditTextTheme"
+        android:inputType="textPersonName"
+        android:hint="@string/email2"
+        android:textColorHint="@color/yellow"
+        android:textColor="@color/yellow"
+        android:layout_margin="10dp"
+        tools:ignore="TextFields"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/messagedata"
+        android:textCursorDrawable="@drawable/cursor_color"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:gravity="top"
+        android:textColorHint="@color/yellow"
+        android:textColor="@color/yellow"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:theme="@style/EditTextTheme"
+        android:hint="@string/enter_your_message_here"
+        android:scrollHorizontally="false"
+        android:inputType="textMultiLine"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/send_to_server"
+        android:background="@color/yellow"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="10dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/btn_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/view_sent_details"
+        android:background="@color/yellow"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:enabled="false"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="8dp"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/how_you_rate_our_app"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="25dp"
+        android:textColorHint="@color/yellow"
+        android:textColor="@color/yellow"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="ObsoleteLayoutParam,RtlHardcoded" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:progressBackgroundTint="#5c5c5c"
+        android:progressTint="@color/colorPrimary"
+        android:layout_above="@+id/rateMessage"
+        tools:ignore="ObsoleteLayoutParam,RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/tvRateCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/your_rating"
+        android:textColorHint="@color/yellow"
+        android:textColor="@color/yellow"
+        android:layout_marginLeft="80dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        tools:ignore="ObsoleteLayoutParam,RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/tvRateMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textColorHint="@color/yellow"
+        android:textColor="@color/yellow"
+        android:layout_marginLeft="80dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        tools:ignore="ObsoleteLayoutParam,RtlHardcoded" />
+
+
+
+
+</LinearLayout>

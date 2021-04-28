@@ -1,0 +1,2228 @@
+﻿{
+"Events" : [
+                {
+                    "GUID":"9fc74eb1-c06e-4a31-a1a8-87a5a92dc071",
+                    "Event Title": "Pop-Up Junk Drop",
+                    "Teaser Text": "Drop off your furniture, mattress, electronics and other household items for free!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/OperationsJunks.jpg",
+                    "Event URL": "https://www.surrey.ca/city-services/20196.aspx",
+            
+                        "Event Location": "Surrey Operations Centre Parking Lots, 6651 148 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "11-08-2019",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "11-08-2019",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Parks and Environment","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"c5aeba2e-1f78-4895-b22d-24d9ca396257",
+                    "Event Title": "Contemporary Art Bus Tour",
+                    "Teaser Text": "Join us for a bus tour to see art in Abbotsford, Maple Ridge and Coquitlam.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ArtsCentre/BusTour_web.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29937.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "04-03-2020",
+                    "Start Time": "9:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "04-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"0eae972a-4c79-44b4-9212-667b18009cc3",
+                    "Event Title": "Thursday Artist Talk: Victoria Mitchell, \"Returning to Your Creative Passion\"",
+                    "Teaser Text": "Learn about how one artist rediscovered her creative passion after more than two decades. ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Victoria%20Mitchell_web.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30460.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "06-02-2020",
+                    "Start Time": "19:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "06-02-2020",
+                    "End Time": "21:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"83db318c-7304-45bf-9008-c80c894b9bbd",
+                    "Event Title": "Indigenous-Made Monthly Matinee",
+                    "Teaser Text": "Celebrate the rich, varied, and unique perspectives of Indigenous-made cinema! ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Indigenous-Made%20Monthly%20Matinee.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30609.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "21-03-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "21-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"7146392c-222e-4178-a1e9-c14cbc381d58",
+                    "Event Title": "Thursday Artist Talk: Ron Long, “The Art, Technique, and Challenge of Nature Photography” Part 2",
+                    "Teaser Text": "Learn how Ron Long navigates the challenges of photographing nature.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/RonLongSandDunes.png",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30614.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "05-03-2020",
+                    "Start Time": "19:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "05-03-2020",
+                    "End Time": "21:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"b50839d7-0faf-4304-8c8b-c5dba9f44989",
+                    "Event Title": "Panel Discussion for Don Li-Leger: Counting the Steps to the Sun ",
+                    "Teaser Text": "Join in as artists discuss the videos and paintings of Don Li-Leger.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/PanelDiscussionPhotobyPardeepSingh.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30615.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "07-03-2020",
+                    "Start Time": "14:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-03-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"e51ad9c2-7755-4976-8265-0b7f924ca9d8",
+                    "Event Title": "Conversational Tour of Don Hutchinson and Ying-Yueh Chuang: Passages",
+                    "Teaser Text": "Artist Ying-Yueh Chuang and SAG curators host a conversational tour of Passages ceramics exhibition",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Ying-YuehChuang-PlantCreature-2003.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30686.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "Edit https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "22-03-2020",
+                    "Start Time": "14:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "22-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"1e9e7c94-52d0-42cb-838d-4780bfd5d0ae",
+                    "Event Title": "Art and Feminism Wikipedia Edit-a-thon",
+                    "Teaser Text": "Hear how we plan to increase the representation of women and non-binary artists.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FeminismWikipediaEditathon.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/27324.aspx",
+            
+                        "Event Location": "Surrey Arts Centre, 13750 88 Ave",
+                    
+                    "Event Location URL": "www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "14-03-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-03-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"30a056c9-214c-4f14-b1ff-2d74ec19c8a7",
+                    "Event Title": "Family Sunday",
+                    "Teaser Text": "Drop in to create, explore, and enjoy art with friends and family!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ArtsCentre/FamilySundayWeb.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28276.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "15-03-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "15-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Kids and Family","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ddcb234f-2a33-43d2-bf32-7298d92e72cc",
+                    "Event Title": "Competitive Paint Off",
+                    "Teaser Text": "Participate as an artist or an observer in this action-packed event.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ArtsCentre/SketchOff_web.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29775.aspx",
+            
+                        "Event Location": "Surrey Art Gallery, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1619.aspx",
+                    "Start Date": "21-03-2020",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "21-03-2020",
+                    "End Time": "21:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"729657f8-45aa-41d2-beee-99595e4da53a",
+                    "Event Title": "Kim's Convenience",
+                    "Teaser Text": "The corner store comedy that inspired the hit CBC series | Surrey Arts Centre",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ArtsCentre/KimsConvenienceEvent.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29542.aspx",
+            
+                        "Event Location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "19-02-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "01-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"2c90bcdb-bc08-462f-bec6-d36cfd85a80b",
+                    "Event Title": "Josh Feinberg in Concert",
+                    "Teaser Text": "Embark on a meditative musical journey with traditional Indian Ragas that borrow from other styles.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/JoshFeinberg.png",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30362.aspx",
+            
+                        "Event Location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue",
+                    
+                    "Event Location URL": "www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "30-05-2020",
+                    "Start Time": "20:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "30-05-2020",
+                    "End Time": "22:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"15f1e808-281d-43f5-9a66-d95060fad893",
+                    "Event Title": "Cadence",
+                    "Teaser Text": "Enjoy this 4-man, 4-microphone a capella group that has been wowing audiences around the world.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CadenceEvent.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29762.aspx",
+            
+                        "Event Location": "Centre Stage at Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "13-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "13-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"fc2d3361-764d-4f1e-8220-850e68323331",
+                    "Event Title": "Ain't True & Uncle False ",
+                    "Teaser Text": "Step into the Big Fib Trailer Park and meet its colourful inhabitants. You'll never want to leave.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Ain%27tTrue%20UncleFalse.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29763.aspx",
+            
+                        "Event Location": "Centre Stage at Surrey City Hall , 13450 104 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "20-03-2020",
+                    "Start Time": "20:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "20-03-2020",
+                    "End Time": "22:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"03b7c1b6-2119-4dff-9d73-ed2fb4e7fa64",
+                    "Event Title": "Clarinetastik! ",
+                    "Teaser Text": "Enjoy this Spanish clarinet virtuoso, Jose Franch-Ballester in combination with the Bergmann Duo.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/JoseFranch-Ballester.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29764.aspx",
+            
+                        "Event Location": "Studio Theatre at Surrey Arts Centre, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "09-04-2020",
+                    "Start Time": "11:11",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "09-08-2019",
+                    "End Time": "12:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ef77c03f-a36b-48d3-baa8-12f079cec1ec",
+                    "Event Title": "Caribbean Night in Surrey with The Phase III Steel Drum Band",
+                    "Teaser Text": "Party at this Caribbean cultural extravaganza! Hear calypso, R&B, reggae, & more played with joy.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CaribbeanNightinSurrey.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29765.aspx",
+            
+                        "Event Location": "Studio Theatre at Surrey Arts Centre, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "25-04-2020",
+                    "Start Time": "20:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "25-04-2020",
+                    "End Time": "22:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"eeaa2cef-c433-4299-a6e9-e85c63b046b3",
+                    "Event Title": "I Am Woman! Hear Me Laff!",
+                    "Teaser Text": "Celebrate International Women's Day by laughing along with this all-female lineup of comics.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Iamwomangroup.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/27589.aspx",
+            
+                        "Event Location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "07-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"315df2af-2742-4a39-b1de-6425cf826fc7",
+                    "Event Title": "Film Night: Love, Scott",
+                    "Teaser Text": "See through a visually evocative window into queer experience, set to a stunning musical score.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/LoveScottEvent.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29895.aspx",
+            
+                        "Event Location": "Centre Stage at Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "26-06-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "26-06-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"b55e3c4c-3b0b-4e3d-ba15-32b7e9f9c130",
+                    "Event Title": "Screwball Comedy",
+                    "Teaser Text": "An affectionate spoof featuring outrageous characters and mystery | Surrey Arts Centre",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ScrewballComedy.png",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/20173.aspx",
+            
+                        "Event Location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/1681.aspx",
+                    "Start Date": "13-03-2020",
+                    "Start Time": "19:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-03-2020",
+                    "End Time": "19:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"80fe55ea-0e93-43ac-bb75-d094f4ba31d6",
+                    "Event Title": "Party for the Planet",
+                    "Teaser Text": "Join us at Surrey Civic Plaza for Party for the Planet, BC's largest Earth Day celebration!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/P4TP_PLANTS_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/11076.aspx",
+            
+                        "Event Location": "City Hall Plaza",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "18-04-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "18-04-2020",
+                    "End Time": "18:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Festivals","Kids and Family","Parks and Environment","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"dd5ffbb7-e35b-453b-a6af-72688e67c6a8",
+                    "Event Title": "Surrey International Children's Festival",
+                    "Teaser Text": "Enjoy songs and stories at the Surrey International Children's Festival.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/COS%208863%20Image%20SICF_Tweet-Tweet_80.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/8863.aspx",
+            
+                        "Event Location": "Bear Creek Park / Surrey Arts Centre, 13750 88 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "21-05-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "23-05-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Festivals","Kids and Family","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"cd02d4ae-0bc5-46d1-8256-93c4bdbae9a9",
+                    "Event Title": "Surrey Canada Day",
+                    "Teaser Text": "Celebrate Canada's birthday on July 1 in Surrey at the Bill Reid Millennium Amphitheatre.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Surrey_Crowd_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/11447.aspx",
+            
+                        "Event Location": "Bill Reid Millennium Amphitheatre, 6386 176 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "01-07-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "01-07-2020",
+                    "End Time": "23:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Festivals","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"1c6418d5-1b9d-415f-bb74-8e036ebd7a6d",
+                    "Event Title": "Fusion Festival",
+                    "Teaser Text": "Check out who's performing this year at the ultimate celebration of music, food and culture!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FF_Pavilions_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/11297.aspx",
+            
+                        "Event Location": "Holland Park, 13428 Old Yale Road",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/2077.aspx",
+                    "Start Date": "25-07-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "26-07-2020",
+                    "End Time": "22:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community","Festivals","Kids and Family","Youth","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"3b3c9849-186e-4d77-97e7-c871e3db64af",
+                    "Event Title": "Surrey Tree Lighting Festival",
+                    "Teaser Text": "Be part of the tree lighting, performances & activities at Surrey's Tree Lighting Festival.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Surrey_TLF_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/10279.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "28-11-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "28-11-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Festivals"," Kids and Family","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"c38319af-8ffd-488e-9c1d-f8a8a976e77e",
+                    "Event Title": "National Indigenous Peoples Day",
+                    "Teaser Text": "Make your way to Holland Park and join us in celebrating National Indigenous Peoples Day on June 21.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/National%20Indigenous%20Peoples%20Day%20Drum.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/26726.aspx",
+            
+                        "Event Location": "Holland Park, 13428 Old Yale Road",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/2077.aspx",
+                    "Start Date": "21-06-2020",
+                    "Start Time": "15:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "21-06-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Festivals","Parks and Environment","Recreation and Sport","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"2c20793b-f1f5-4021-a34c-72645c4d0690",
+                    "Event Title": "International Folk Dancing Drop-in Sessions",
+                    "Teaser Text": "Learn folk dances from around the world in a relaxed and friendly atmosphere.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FolkDancing.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29821.aspx",
+            
+                        "Event Location": "Walnut Road Elementary School, 16152 82 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "27-02-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "11-06-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Fleetwood"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ec9f0ef2-ef0f-4a8c-866d-a7b5d550afdf",
+                    "Event Title": "Surrey Youth Cooking Showdown",
+                    "Teaser Text": "Calling all young aspiring chefs! Showcase your cooking skills in this Chopped-inspired competition.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Surrey%20Youth%20Showcase%20-%20Cooking%20-%20Marketing%20-%20Image%20991x557%20-%202019.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/26568.aspx",
+            
+                        "Event Location": "South Surrey Recreation &amp; Arts Centre, 14601 20 Ave",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/1918.aspx",
+                    "Start Date": "30-11-2019",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "30-11-2019",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","Youth","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"5677999a-b755-4888-b0a2-75bc993459d5",
+                    "Event Title": "22nd Annual Winter Ice Palace ",
+                    "Teaser Text": "Enjoy our annual seasonal skate!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/WinterIcePalace2019.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29900.aspx",
+            
+                        "Event Location": "Cloverdale Ice Arena, 6090 176 St",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/5031.aspx",
+                    "Start Date": "03-01-2020",
+                    "Start Time": "10:27",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "05-01-2020",
+                    "End Time": "10:27",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"1452de50-5efe-42d7-97bc-492869346a01",
+                    "Event Title": "Community Kitchens at Chuck Bailey Recreation Centre",
+                    "Teaser Text": "Learn to cook delicious, healthy food with new friends in a welcoming community kitchen program.",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30209.aspx",
+            
+                        "Event Location": "Chuck Bailey Recreation Centre, 13458 107a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "03-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "17-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"3aeaad71-b194-4f4d-af97-426ebac4758d",
+                    "Event Title": "Foster Parent Information Session",
+                    "Teaser Text": "Learn how to become a foster caregiver and help change a child’s life.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FosterParentInfoSession.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29495.aspx",
+            
+                        "Event Location": "Ministry of Children and Family Development (MCFD) - Surrey/White Rock , 9180 King George Blvd",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "05-02-2020",
+                    "Start Time": "18:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "05-02-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"8d6cce3d-8563-44dc-a100-07d58801a5f8",
+                    "Event Title": "North Surrey Sport & Ice Complex Grand Opening",
+                    "Teaser Text": "Join Mayor & Council to cut the ribbon and celebrate Surrey’s newest recreational facility!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/NSSICPublicSkateCROP.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30284.aspx",
+            
+                        "Event Location": "NORTH SURREY SPORT &amp; ICE COMPLEX, 10950 126a St",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/23437.aspx",
+                    "Start Date": "18-01-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "18-01-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"961d687e-c43a-43da-a369-82136ef9fd6a",
+                    "Event Title": "Swoon Mercantile Love Fest",
+                    "Teaser Text": "Come spread the love and shop local, vintage, and handmade!",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30297.aspx",
+            
+                        "Event Location": "Semiahmoo House Society, 15306 24 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "02-02-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "02-02-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"75f7798b-c2fe-4e7c-9ed5-2067e9e61834",
+                    "Event Title": "Newton Talks - March Edition",
+                    "Teaser Text": "Ask questions and share your concerns over what's happening in the Newton Town Centre.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/NewtonTalks.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30298.aspx",
+            
+                        "Event Location": "DIVERSEcity, 13455 76 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "11-03-2020",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "11-03-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Newton"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"a33765b9-5366-4307-adb5-c92d9009b299",
+                    "Event Title": "Construction Expo 2020",
+                    "Teaser Text": "Network with other members of the construction industry at the 5th annual Construction Expo.",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30326.aspx",
+            
+                        "Event Location": "Cloverdale Fairgrounds Agriplex Bldg, 17763 62 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "06-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"d52c35f7-a6a3-4fa6-a298-80d0f7801a00",
+                    "Event Title": "City Council Meeting",
+                    "Teaser Text": "Attend the next Council meeting at Surrey City Hall.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CityCouncilAudience.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30399.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "09-03-2020",
+                    "Start Time": "19:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "09-03-2020",
+                    "End Time": "22:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Public Meetings and Open Houses"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"63a143af-7fb4-4b9c-9286-3de5383e06f0",
+                    "Event Title": "Vaisakhi Day Parade",
+                    "Teaser Text": "Come to the annual Vaisakhi Parade featuring cultural floats, performers and free food and drink.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/VaisakhiParadeCrowd.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/15046.aspx",
+            
+                        "Event Location": "Gurdwara Sahib Dasmesh Darbar, 12885 85 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "25-04-2020",
+                    "Start Time": "9:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "25-04-2020",
+                    "End Time": "18:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Business","Festivals","Kids and Family","Newton"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"9119a8fc-567f-4b27-9ece-2f9b91cb02d4",
+                    "Event Title": "Women in Firefighting Workshops ",
+                    "Teaser Text": "Attend this one-day workshop to learn about becoming a career firefighter.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/WomenFirefightingWorkshop.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30078.aspx",
+            
+                        "Event Location": "Surrey Fire Department Central Training Facility, 14923 64 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "30-05-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "18-07-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Business","Recreation and Sport","Newton"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"35f91edf-7956-4111-a5de-20c206b29f36",
+                    "Event Title": "Preschool Open Houses",
+                    "Teaser Text": "Tour our facilities and learn about preschool programs for your child. ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Preschool.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30418.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "25-01-2020",
+                    "Start Time": "10:56",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "29-01-2020",
+                    "End Time": "10:56",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"a4e5c634-251d-4bb7-bd96-65462111bedb",
+                    "Event Title": "Family Day Events in Surrey",
+                    "Teaser Text": "Celebrate Family Day with free, fun activities for the entire family!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FamilyDay2019.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30424.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "17-02-2020",
+                    "Start Time": "14:27",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "17-02-2020",
+                    "End Time": "14:28",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"715f61eb-8da5-4110-8a65-1cf10edc6211",
+                    "Event Title": "Family Day Geocache Treasure Hunt",
+                    "Teaser Text": "Go on an outdoor treasure hunt to try geocaching!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Easter%20Geocache%20Photo.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30432.aspx",
+            
+                        "Event Location": "Redwood Park, 17900 20 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/2187.aspx",
+                    "Start Date": "15-02-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "15-02-2020",
+                    "End Time": "14:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Parks and Environment","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"f8bbd882-28bc-44a5-bb0b-e57bb229cb86",
+                    "Event Title": "Small Builders Forum",
+                    "Teaser Text": "Learn the entire process for building a house in Surrey. ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ConstructionWorkersFraming.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30494.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "12-03-2020",
+                    "Start Time": "17:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "12-03-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Business","Public Meetings and Open Houses","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ad89711d-92fc-4136-a415-4976754908a7",
+                    "Event Title": "KPU Surrey Open House",
+                    "Teaser Text": "Explore interactive exhibits, attend workshops, take a guided campus tour, and win exciting prizes!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/KPUOpenHouse1.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30501.aspx",
+            
+                        "Event Location": "Kwantlen Polytechnic University, 12666 72 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "08-02-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "08-02-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Newton"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"5ac9d1a1-d378-4dce-aa5b-090bc08512b8",
+                    "Event Title": "Tax Return Workshop for Small Business Owners & Self-Employed Individuals",
+                    "Teaser Text": "Learn about filing your tax return as a small business owner or self-employed person.",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30502.aspx",
+            
+                        "Event Location": "City Centre Library, 10350 University Dr",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "31-01-2020",
+                    "Start Time": "13:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "31-01-2020",
+                    "End Time": "15:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"68566233-a508-40d3-af81-df73fdd2dd10",
+                    "Event Title": "Business Plan Writing Circles",
+                    "Teaser Text": "Explore your business ideas at a weekly seminar for immigrants.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/BusinessPlans.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30503.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "29-02-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"19c34e85-b843-4b66-aa88-398a3c4abf04",
+                    "Event Title": "The Nature of Our Country",
+                    "Teaser Text": "Contrasting the natural and artificial in Canadian landscape painting, digital, and charcoal artwork",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPMorganMcLeanThomasBueking.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30528.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "07-03-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "16-03-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"839de419-0a4a-4041-b126-101b1871ffaa",
+                    "Event Title": "Show and Tell",
+                    "Teaser Text": "Professional Federation of Canadian Artists will be showing and demonstrating their work",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPSoundoftheSeaJJarville.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30529.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "19-03-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "29-03-2020",
+                    "End Time": "18:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"2bba1c9f-b411-41b5-afbe-0281301a5d3b",
+                    "Event Title": "When the Smoke Clears",
+                    "Teaser Text": "“Interpretations on Normal,\" a visual art exploration of Surrey from 4 unique artistic perspectives",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPDiversifiedBrush.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30530.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "01-04-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "12-04-2020",
+                    "End Time": "17:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ec327683-48f2-40a4-8a5c-a10e5d2c1f60",
+                    "Event Title": "lace|heart|art exhibition",
+                    "Teaser Text": "Discover colourful hearts, all made by hand in traditional lacemaking techniques",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPLenkaSuchanek.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30531.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "01-05-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "10-05-2020",
+                    "End Time": "18:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"7703dbc9-7cdb-4bae-b483-eab5c55b9a27",
+                    "Event Title": "Community Kitchens for Seniors",
+                    "Teaser Text": "Learn to cook delicious, healthy food with new friends in a welcoming community kitchen program.",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30551.aspx",
+            
+                        "Event Location": "Newton Seniors Centre, 13775 70 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "02-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "23-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Newton"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"25148adf-d34a-40dd-9c53-c1f9146b3ec2",
+                    "Event Title": "Contemporary Canadian Landscape",
+                    "Teaser Text": "Exploring local Canadian landscape through mixed-media projects.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPSheilaVanDelft.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30532.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "07-02-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "17-02-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"bf5fcc84-854d-4d63-a34a-40fa49d27797",
+                    "Event Title": "Flow",
+                    "Teaser Text": "Exploring movement through body, fibre, nature",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPNelaH.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30556.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "15-05-2020",
+                    "Start Time": "24:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "24-05-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"6234908d-0d48-42da-8c20-4022d1a4eaf5",
+                    "Event Title": "Group of Six",
+                    "Teaser Text": "Experience the west coast connection: simplified forms, expressive colour, & spirituality in nature",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPBrassBandArtGroup.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30557.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "28-05-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-06-2020",
+                    "End Time": "18:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"1eac3622-4d05-4ee9-9ca5-6ac85fdf9d16",
+                    "Event Title": "Clash of Crews",
+                    "Teaser Text": "Show us your dance moves at this free, annual break dance battle! ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ClashofCrews.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30559.aspx",
+            
+                        "Event Location": "Newton Recreation Centre, 13730 72 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "08-02-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "08-02-2020",
+                    "End Time": "17:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","Youth","Newton"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"180b73e1-e852-4c7a-94c0-0b19e2853673",
+                    "Event Title": "Discretion of Internal Turmoil",
+                    "Teaser Text": "Reflect within through an exhibition of painting and sculpture",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CBPWinnieWilliamson.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30569.aspx",
+            
+                        "Event Location": "Beecher Place, 12160 Beecher St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "21-02-2020",
+                    "Start Time": "24:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "01-03-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"9f54e64e-4b9b-4a89-a795-c1bf2e257459",
+                    "Event Title": "WickFest 2020",
+                    "Teaser Text": "WickFest Returns! Hayley Wickenheiser brings renowned female hockey and development event to Surrey.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Wickfest---Surrey.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30572.aspx",
+            
+                        "Event Location": "Surrey Sport and Leisure Complex Arena, 16555 Fraser Highway",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "31-01-2020",
+                    "Start Time": "14:17",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "02-02-2020",
+                    "End Time": "14:18",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Festivals","Kids and Family","Recreation and Sport","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"81bb1745-404f-4552-b370-391122cbcbc2",
+                    "Event Title": "TEDx Semiahmoo Secondary",
+                    "Teaser Text": "Get your tickets to the first fully student-led TEDx Talk event in Surrey.",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30608.aspx",
+            
+                        "Event Location": "Semiahmoo Secondary, 1785 148 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "24-04-2020",
+                    "Start Time": "17:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "24-04-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"1238ad5b-37cf-4fac-88b1-c9c7603ccdb3",
+                    "Event Title": "City Nature Challenge 2020",
+                    "Teaser Text": "Observe and record the diversity of plants and animals in Surrey as part of a global challenge!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CityNatureChallengePhone.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30617.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "24-04-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "27-04-2020",
+                    "End Time": "12:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Parks and Environment"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"b04adee1-ce32-407f-98ef-2691ff898499",
+                    "Event Title": "MYzone Try It Week",
+                    "Teaser Text": "Experience the MYzone after school drop-in program for free! ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/MYZONEknitting.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30635.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "10-02-2020",
+                    "Start Time": "15:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-02-2020",
+                    "End Time": "17:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"8a07e2e7-f24d-483b-8125-91cbb7c8b04a",
+                    "Event Title": "MYzone Open Houses",
+                    "Teaser Text": "Parents can bring their children to a free MYzone drop-in program, meet the staff and ask questions!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Blocks.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30636.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "11-02-2020",
+                    "Start Time": "15:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-02-2020",
+                    "End Time": "17:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ccf14dc3-650b-4cca-be23-ce40dc200cdf",
+                    "Event Title": "Toque Tuesday",
+                    "Teaser Text": "Come watch Surrey City Council and staff engage in a friendly game of ball hockey for a great cause.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ToqueTuesdayEvent.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30645.aspx",
+            
+                        "Event Location": "Civic Plaza, City Hall",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "04-02-2020",
+                    "Start Time": "9:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "04-02-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"aa112a5a-0ee0-4476-8fa6-34bf38329073",
+                    "Event Title": "Winter Festival: Skate for a Cause",
+                    "Teaser Text": "Enjoy outdoor ice skating and more at the Winter Festival at Guildford Town Centre.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/IceSkates.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30651.aspx",
+            
+                        "Event Location": "Guildford Town Centre, 10355 152 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "14-02-2020",
+                    "Start Time": "15:02",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "17-02-2020",
+                    "End Time": "15:02",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Guildford"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"d8fd13ae-6688-4e0a-9060-0c5178392eab",
+                    "Event Title": "Early Years Festival",
+                    "Teaser Text": "Bring the kids to this festival for ages 6 and under focusing on developing a healthy lifestyle.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/EarlyYears%20Fest%202020_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30694.aspx",
+            
+                        "Event Location": "Chuck Bailey Recreation Centre, 13458 107a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "25-04-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "25-04-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Festivals","Kids and Family","Recreation and Sport","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"e1396a91-fcff-4945-92f7-b31f1b077629",
+                    "Event Title": "Pages of the Past",
+                    "Teaser Text": "See a rare video from 1983 where newcomers share their stories of Surrey's past.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Crescent%20Beach%20Hotel%20in%20the%201920s.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30716.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "14-03-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-03-2020",
+                    "End Time": "12:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Seniors","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"41bee507-42a9-43b3-81ac-954b5404b69b",
+                    "Event Title": "Active Aging Resource Fair",
+                    "Teaser Text": "Attend the Active Aging Resource Fair that connects seniors with local businesses and resources.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Jogging.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30732.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "04-04-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "04-04-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Seniors"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"eb6dbf7c-23bf-46e3-8a9f-79724805279a",
+                    "Event Title": "Canucks Autism Network Adapted Hockey Tournament 2020",
+                    "Teaser Text": "Cheer on the players at this Adapted Hockey Tournament coming to the Surrey Sport & Leisure Complex.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CANGameFamilySkateDevinManky.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30749.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "27-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "28-03-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"a8531724-8cfb-45e8-9508-ffd212e39d0e",
+                    "Event Title": "Come Try Ringette!",
+                    "Teaser Text": "Brign your kids out to try ringette at this free event!",
+                    "Event Image": "",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30750.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "08-03-2020",
+                    "Start Time": "12:15",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "08-03-2020",
+                    "End Time": "14:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"e3b5425e-79f5-4ba0-a7cc-ec4fd02b5825",
+                    "Event Title": "Collage Nights at Alex House",
+                    "Teaser Text": "Create a collage with friends. All materials are provided.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CollageEvent.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30755.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "04-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "29-04-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"e9cab384-e24a-43e1-9a51-0fd5bf0cb8a6",
+                    "Event Title": "Clayton Community Farmer's Market",
+                    "Teaser Text": "Shop for crafts, baked goods, fresh produce and more at this annual Farmer's Market.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ClaytonFarmersMarketEvent.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30770.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "03-05-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "18-10-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"bfe24a4b-dabe-46cf-916c-f03619b3f3da",
+                    "Event Title": "Bear Creek Park Lights",
+                    "Teaser Text": "Join us for the 8th annual Bear Creek Park Lights.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Light%20Festival%20web%20image.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/14033.aspx",
+            
+                        "Event Location": "Bear Creek Park, 13750 88 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/2083.aspx",
+                    "Start Date": "12-11-2019",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "15-11-2019",
+                    "End Time": "21:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Kids and Family","Parks and Environment","Youth","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ade64689-4f74-4bb6-862b-aa434f2ce8ab",
+                    "Event Title": "Surrey Youth Stewardship Squad Events",
+                    "Teaser Text": "Join a community of youth volunteers who protect and care for our urban forest.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/SyssInvasiveRemovalFall.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28572.aspx",
+            
+                        "Event Location": "Hazelnut Meadows Community Park, 14069 68 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "22-02-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "19-06-2020",
+                    "End Time": "19:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Parks and Environment","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"9bd65ea4-e9ba-4e6e-b338-a273795e26a3",
+                    "Event Title": "Clean Sweep 2019",
+                    "Teaser Text": "Participate in Surrey’s 14th annual citywide Clean Sweep clean-up!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/CleanSweepGroup.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28700.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "14-04-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "26-04-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Parks and Environment"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"34b942ce-cab0-465e-ac4a-c2a1e04ebef9",
+                    "Event Title": "Positively Parenting Workshops",
+                    "Teaser Text": "Learn helpful topics and discussions on parenting! All workshops are free and children are welcome. ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ParentingWorkshopWebImage.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28959.aspx",
+            
+                        "Event Location": "Cloverdale Recreation Centre, 6188 176 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "03-12-2019",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "03-12-2019",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"d5796521-6bc2-430c-9e79-968b7798bd3e",
+                    "Event Title": "Myoshoji Temple Monthly Open House - February",
+                    "Teaser Text": "Attend a monthly open house to learn more about Buddhism principles. Themes change every month.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/JapaneseTempleEntrance.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29297.aspx",
+            
+                        "Event Location": "Myoshoji Temple, 13579 Bentley Rd",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "08-02-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "08-02-2020",
+                    "End Time": "12:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"5d06d327-579f-4a0f-b36e-62ce5faf9df3",
+                    "Event Title": "Pre-teen Dances",
+                    "Teaser Text": "Meet your friends at one of Surrey's fun pre-teen dances!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/PreTeenDance.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/20955.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "21-06-2019",
+                    "Start Time": "19:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "21-06-2019",
+                    "End Time": "21:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"7d714418-a0ce-4426-a56e-c4559334fe11",
+                    "Event Title": "Family Fun Nights in Surrey",
+                    "Teaser Text": "Enjoy a free, fun night with your family in Surrey!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FamilyMakingCraftsinSurreyCROPPED.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/23500.aspx",
+            
+                        "Event Location": "Cloverdale Recreation Centre, 6188 176 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "28-02-2020",
+                    "Start Time": "17:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "27-03-2020",
+                    "End Time": "19:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Recreation and Sport"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"f621c83a-581b-4831-b35d-15148c15d330",
+                    "Event Title": "Surrey Rides",
+                    "Teaser Text": "Grab your skateboard, BMX bike or scooter and visit free events at the annual Surrey Rides series.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Surrey%20Rides_Skate%20Image_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/23996.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "07-09-2019",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-09-2019",
+                    "End Time": "18:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"621653ac-94c4-4e02-9e60-50f6a46039e9",
+                    "Event Title": "Lifeguard Information Sessions",
+                    "Teaser Text": "Join us for a free information session and learn how to become a lifeguard or instructor in Surrey. ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Lifeguard2CROP.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/24132.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "10-03-2020",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "10-03-2020",
+                    "End Time": "19:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"4d23d07d-4d39-497e-8ea2-5e3dd34fc784",
+                    "Event Title": "Seedy Saturday",
+                    "Teaser Text": "Get a great start on this year’s garden at the Stewart Farm’s annual seed and plant sale.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Seedy%20Saturday.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/2889.aspx",
+            
+                        "Event Location": "Stewart Farm House, 13723 Crescent Rd",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/2875.aspx",
+                    "Start Date": "04-04-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "04-04-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Seniors","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"f94885e1-327c-4dc5-b394-65d0b538f1f5",
+                    "Event Title": "Spring Break Drop-In: Farm Life",
+                    "Teaser Text": "Bring the kids for free activities, a nature walk and endless photo opps.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Stewart%20Farm%20Spring%20Break%20Drop%20In.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/26186.aspx",
+            
+                        "Event Location": "Historic Stewart Farm, 13723 Crescent Rd",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "17-03-2020",
+                    "Start Time": "12:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "26-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"91a9b02f-ff0c-4a61-9ced-591d9d17ca4d",
+                    "Event Title": "Cards and Crokinole",
+                    "Teaser Text": "Enjoy card games with other 55+ visitors.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Especially%20for%20Seniors.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29737.aspx",
+            
+                        "Event Location": "Historic Stewart Farm, 13723 Crescent Rd",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "06-03-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "06-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Seniors","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"2385adac-3dc8-45f8-9150-b0cf5a2921ce",
+                    "Event Title": "Yarn and Yak",
+                    "Teaser Text": "A monthly time for making and spending time with other seniors.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Yarn%20and%20Yak.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30553.aspx",
+            
+                        "Event Location": "Historic Stewart Farm, 13723 Crescent Rd",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "05-03-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "05-03-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Seniors","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"a9eade79-a51a-4532-93a9-c15cb3b409d8",
+                    "Event Title": "Classic Book Club",
+                    "Teaser Text": "Discuss classic literature over tea and goodies.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Classic%20Book%20Club%202020.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30717.aspx",
+            
+                        "Event Location": "Historic Stewart Farm, 13723 Crescent Rd",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "27-02-2020",
+                    "Start Time": "19:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "25-06-2020",
+                    "End Time": "20:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Heritage","Seniors","Youth","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"5f243d5f-46bb-447c-b6c0-0d07329d12e1",
+                    "Event Title": "Celtic Fest",
+                    "Teaser Text": "Be entertained by captivating Celtic music and dancing, and get creative with Celtic crafts.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Celtic%20Fest%20Header.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28439.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "07-03-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-03-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Seniors","Youth","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"2e508d49-7226-4b9b-99a3-b1df81ea5600",
+                    "Event Title": "Spring Break: Amazing Arctic",
+                    "Teaser Text": "Make this Spring Break epic with arctic themed activities for the kids.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Spring%20Break%20in%20the%20Arctic.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28806.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "17-03-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "27-03-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Youth","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"01349b00-d590-45ab-920f-1d9ec4f6fc61",
+                    "Event Title": "Ukrainian Easter",
+                    "Teaser Text": "Learn about rescue animals and hop around the galleries.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Ukrainian%20Easter%20Eggs.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/28993.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "11-04-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "11-04-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Seniors","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"0e2b35c3-5a4f-4807-b0a6-46da002bf453",
+                    "Event Title": "Surrey Regional Heritage Fair",
+                    "Teaser Text": "Be part of a celebration of Canadian culture on behalf of Surrey's schools.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Heritage%20Fair%20header.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/29857.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "17-04-2020",
+                    "Start Time": "8:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "18-04-2020",
+                    "End Time": "12:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Heritage","Kids and Family","Youth","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"01508038-8e7d-4268-99a7-11b286c11259",
+                    "Event Title": "Sensory Friendly Sunday",
+                    "Teaser Text": "A sensory focused time for people to enjoy the museum the first Sunday of each month.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Sensory%20Friendly%20Sunday%20header.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30248.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "01-03-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "01-03-2020",
+                    "End Time": "12:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Recreation and Sport","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"759a0a37-0914-4fbf-97e2-975528f40fd3",
+                    "Event Title": "Exhibit Spotlight: Arctic Voices",
+                    "Teaser Text": "Kick off the new exhibit with a sustainable celebration.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Arctic%20Voices%20Spotlight%20Header.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30654.aspx",
+            
+                        "Event Location": "Museum of Surrey, 17710 56a Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "14-03-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-03-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Seniors","Youth","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"af160626-bb5b-4ffb-81a8-a28e0f5dbc9f",
+                    "Event Title": "Tots Easter",
+                    "Teaser Text": "Bring your pre-schooler for an Easter party just for the wee ones!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Tots%20Easter.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30736.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "09-04-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "09-04-2020",
+                    "End Time": "12:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Heritage","Kids and Family","Cloverdale"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"f2478c21-c434-4201-aa2b-43b565fbcaf2",
+                    "Event Title": "Sunnyside Acres Urban Forest Open House",
+                    "Teaser Text": "Explore all the urban forest has to offer at this community celebration!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/SunnysideAcresNatureWalk.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/26647.aspx",
+            
+                        "Event Location": "Sunnyside Acres Urban Forest Park, 2598 144 St",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/2217.aspx",
+                    "Start Date": "06-06-2020",
+                    "Start Time": "13:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "06-06-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","Seniors","Youth","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"a81dec2e-58a5-4395-84de-369d6660152e",
+                    "Event Title": "Get Growing at Darts Hill",
+                    "Teaser Text": "Be inspired to Get Growing at Darts Hill Garden! ",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/DartsHillSpring2015ScarletBlack_webpagefeature.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/26269.aspx",
+            
+                        "Event Location": "Darts Hill Garden Park, 1633 170 St",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/2228.aspx",
+                    "Start Date": "25-04-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "25-04-2020",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"6a410734-f998-4300-804d-825b7f3e07ac",
+                    "Event Title": "Environmental Film Screening: Toad People",
+                    "Teaser Text": "Enjoy a free screening of the documentary Toad People and learn about local conservation efforts.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/WesternToad.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30616.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "12-05-2020",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "12-05-2020",
+                    "End Time": "20:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Parks and Environment","Youth","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"d167a87b-bfd0-45c5-bf7a-f9c8bf636dae",
+                    "Event Title": "Get Outside",
+                    "Teaser Text": "Get outside to explore and connect with nature through a variety of hands-on activities this spring.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Get%20Outside%20Image_991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30729.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/2187.aspx",
+                    "Start Date": "14-03-2020",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "28-03-2020",
+                    "End Time": "14:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"65ee6737-bb87-4966-9a9d-c05cf7b2c6ca",
+                    "Event Title": "Mother's Day at The Glades",
+                    "Teaser Text": "Celebrate mom and your loved ones with a visit to this stunning woodland garden!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Mother%27sDay%20at%20The%20Glades_Web%20image.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/8566.aspx",
+            
+                        "Event Location": "The Glades, 561 172 St",
+                    
+                    "Event Location URL": "http://www.surrey.ca/culture-recreation/12205.aspx",
+                    "Start Date": "10-05-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "10-05-2020",
+                    "End Time": "16:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","Seniors","Youth","South Surrey"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"6d89929c-3e86-4bde-93c0-7ffa44cc4591",
+                    "Event Title": "Nature Work Parties",
+                    "Teaser Text": "Get your hands dirty removing invasive plants to help enhance your park.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/natureworkpartyfamilyfall.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/22609.aspx",
+            
+                        "Event Location": "Hazelnut Meadows Community Park, 14069 68 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "14-03-2020",
+                    "Start Time": "10:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "27-06-2020",
+                    "End Time": "12:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","Seniors","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"d0c08053-4be9-40ec-9761-8234f102a0cb",
+                    "Event Title": "Releaf Shade Tree Plantings",
+                    "Teaser Text": "Help grow Surrey's urban forest by planting shade trees in your community park!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/FamilyPlantingShadeTree.JPG",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/24130.aspx",
+            
+                        "Event Location": "Bothwell Park, 9435 168 St",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "01-04-2020",
+                    "Start Time": "17:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "29-04-2020",
+                    "End Time": "19:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","Seniors","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"7d221117-257e-46ff-8d84-0a1ceebb7d52",
+                    "Event Title": "Birding Walks",
+                    "Teaser Text": "Join a local naturalist for a series of free monthly walks to discover Surrey's birds!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/chickadeesonbranch.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/24773.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "21-03-2020",
+                    "Start Time": "9:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "16-05-2020",
+                    "End Time": "9:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","Seniors","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"11831817-5240-4dc5-a4af-44fbaff8dbef",
+                    "Event Title": "Special Olympics BC Summer Games 2021",
+                    "Teaser Text": "Volunteer or be a spectator as Surrey hosts the Special Olympics BC Summer Games for the first time.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/SpecialOlympicsEventPage.jpg",
+                    "Event URL": "https://www.surrey.ca/culture-recreation/30294.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "08-07-2021",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "11-07-2021",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Community Hosted","Kids and Family","Recreation and Sport","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"da4224ef-ec53-43fa-9841-bf43dc691783",
+                    "Event Title": "Storm Drain Marking Challenge",
+                    "Teaser Text": "Join the summertime challenge to mark yellow fish by storm drains and win prizes!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/ENG-SDC%202018%20pic.JPG",
+                    "Event URL": "https://www.surrey.ca/29614.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "03-08-2019",
+                    "Start Time": "8:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "15-08-2019",
+                    "End Time": "22:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Kids and Family","Parks and Environment","Seniors","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"420598dc-0bf5-42d9-91e8-8709468475ba",
+                    "Event Title": "Band-Aid: Youth Musician Development Day",
+                    "Teaser Text": "Come check out Band-Aid – a free development day for local musicians between 12-22 years old.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/BandAidMusician.png",
+                    "Event URL": "https://www.surrey.ca/community/29796.aspx",
+            
+                        "Event Location": "Surrey Arts Centre, 13750 88 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "14-09-2019",
+                    "Start Time": "9:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "14-09-2019",
+                    "End Time": "22:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Youth","Whalley"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"45b01c08-70c9-4be2-b803-614b0699c056",
+                    "Event Title": "Surrey Steps Up",
+                    "Teaser Text": "Celebrate youth who are transforming Surrey schools and communities through good deeds.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Webpage%20Image_Surrey%20Steps%20Up.jpg",
+                    "Event URL": "https://www.surrey.ca/community/28527.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/city-government/14172.aspx",
+                    "Start Date": "06-03-2020",
+                    "Start Time": "18:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "06-03-2020",
+                    "End Time": "21:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Kids and Family","Parks and Environment","Recreation and Sport","Youth","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"9e026c24-3ee0-41bb-a053-57c068430ec3",
+                    "Event Title": "Youth Speak Up",
+                    "Teaser Text": "Attend a day of workshops to discuss topics that help shape your community. For ages 13-18.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Youth%20Speak%20Up%20-%20Marketing%20-%20Image%20991x557%20-%202018.jpg",
+                    "Event URL": "https://www.surrey.ca/community/29845.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "25-10-2019",
+                    "Start Time": "8:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "25-10-2019",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Youth","City Centre"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"ae85e8e1-6da3-42a5-b681-9cfaa8197d22",
+                    "Event Title": "Surrey Youth Basketball Tournament",
+                    "Teaser Text": "Get a team together and show your basketball skills in this friendly 5-on-5 basketball competition.",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Female_Basketball_Players_2020.jpg",
+                    "Event URL": "https://www.surrey.ca/community/28989.aspx",
+            
+                        "Event Location": "Guildford Recreation Centre, 15105 105 Ave",
+                    
+                    "Event Location URL": "https://www.surrey.ca/culture-recreation/1876.aspx",
+                    "Start Date": "27-03-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "02-05-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"5574ef06-7f65-4f11-80e6-100960e889b7",
+                    "Event Title": "Surrey Youth Talent Showcase",
+                    "Teaser Text": "Share your talent at the youth showcase!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/WEB%2020170923-_WML1424%20991x557.jpg",
+                    "Event URL": "https://www.surrey.ca/community/29732.aspx",
+            
+                        "Event Location": "Fleetwood Community Centre, 15996 84 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "07-09-2019",
+                    "Start Time": "11:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-09-2019",
+                    "End Time": "15:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Recreation and Sport","Youth","Fleetwood"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"7202dc33-6931-40f3-a56c-fb59a5919997",
+                    "Event Title": "Surrey Youth Showcase: Street Dance Battle",
+                    "Teaser Text": "Come check out Surrey’s first outdoor youth street dance competition at Surrey Civic Plaza!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/Breakdancer.JPG",
+                    "Event URL": "https://www.surrey.ca/community/29395.aspx",
+            
+                        "Event Location": "Surrey City Hall, 13450 104 Ave",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "28-06-2019",
+                    "Start Time": "13:30",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "28-06-2019",
+                    "End Time": "18:30",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Recreation and Sport","Youth"]
+                }
+            ,
+            
+            
+                {
+                    "GUID":"5322eeba-00cd-4e96-87d8-6075bfe02a96",
+                    "Event Title": "Youth Week",
+                    "Teaser Text": "Celebrate Surrey's Youth Week with free, fun activities at various recreation centres and parks!",
+                    "Event Image": "https://www.surrey.ca/images/cos-master/pageImages/YouthPhotoBooth.PNG",
+                    "Event URL": "https://www.surrey.ca/community/26526.aspx",
+            
+                        "Event Location": "",
+                    
+                    "Event Location URL": "",
+                    "Start Date": "01-05-2020",
+                    "Start Time": "0:00",
+                    "Start Time Zone":"Canada/Pacific",
+                    "End Date": "07-05-2020",
+                    "End Time": "0:00",
+                    "End Time Zone":"Canada/Pacific",
+                    "Categories": ["Arts","Parks and Environment","Recreation and Sport","Youth"]
+                }
+    ]
+}
+

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment"
+    android:id="@+id/homeFrag"
+    android:background="@color/colorPrimaryDarker">
+
+    <ImageView
+        android:id="@+id/logo_home"
+        android:elevation="6dp"
+        android:layout_width="151dp"
+        android:layout_height="107dp"
+        android:src="@drawable/logo2"
+        android:layout_marginEnd="125dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/logo"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:background="@color/colorPrimaryDarker">
+
+
+        <LinearLayout
+            android:id="@+id/menu11"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDarker"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/myCardView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                app:cardCornerRadius="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:padding="5dp"
+                android:background="@color/yellow"
+                android:layout_marginTop="150dp"
+                tools:ignore="ObsoleteLayoutParam">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDarker"
+                android:gravity="center"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/curious_about_what_jobs_are_available_near_you_n_nexplore_our_variety_of_potential_categories"
+                    android:textColor="@color/yellow"
+                    android:padding="5dp"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/browse_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="123dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/card_edge"
+                    android:textColor="@color/yellow"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:textSize="16sp"
+                    android:text="@string/browse_jobs"
+                    tools:ignore="RtlHardcoded" />
+            </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                app:cardCornerRadius="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                tools:ignore="ObsoleteLayoutParam">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDarker"
+                android:gravity="center"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="@string/are_you_running_out_of_workers_n_add_the_available_jobs_to_our_app_to_find_the_best_people_around_you_that_can_work_for_your_company"
+                    android:textColor="@color/yellow"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/add_jobs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="123dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/card_edge"
+                    android:textColor="@color/yellow"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:textSize="16sp"
+                    android:text="@string/add_jobs"
+                    tools:ignore="RtlHardcoded" />
+            </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                app:cardCornerRadius="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                tools:ignore="ObsoleteLayoutParam">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDarker"
+                android:gravity="center"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/text3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="@string/want_to_get_experience_through_various_events_this_exciting_feature_will_let_you_explore_about_the_most_relevant_events"
+                    android:textColor="@color/yellow"
+                    android:textSize="20sp" />
+                <Button
+                    android:id="@+id/find_events"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="123dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/card_edge"
+                    android:textColor="@color/yellow"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:textSize="16sp"
+                    android:text="@string/find_events"
+                    tools:ignore="RtlHardcoded" />
+            </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                app:cardCornerRadius="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                tools:ignore="ObsoleteLayoutParam">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDarker"
+                android:gravity="center"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/text4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="@string/want_to_have_job_training_about_a_particular_job_this_will_help_you_to_get_the_necessary_training_required_for_your_job"
+                    android:textColor="@color/yellow"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/job_training"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="123dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/card_edge"
+                    android:textColor="@color/yellow"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:textSize="16sp"
+                    android:text="@string/job_training"
+                    tools:ignore="RtlHardcoded" />
+            </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+    <ImageView
+        android:id="@+id/bgapp"
+        android:layout_width="412dp"
+        android:layout_height="732dp"
+        android:layout_marginStart="8dp"
+        android:scaleType="fitXY"
+        android:background="@color/colorPrimaryDarker"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.923"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/anim" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

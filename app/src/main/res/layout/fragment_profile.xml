@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDarker">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/yellow"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/simple_easy_fast"
+            android:textColor="#000"
+            android:textSize="14sp"
+            android:layout_marginEnd="100dp"
+            android:layout_marginTop="50dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:text="@string/gig_finder"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="28sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/logo_home"
+        android:layout_width="151dp"
+        android:layout_height="107dp"
+        android:elevation="6dp"
+        android:src="@drawable/logo1"
+        android:layout_marginEnd="280dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/logo" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:cardCornerRadius="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/upload"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="8dp"
+            android:background="?android:attr/selectableItemBackground"
+            tools:ignore="RtlHardcoded"
+            android:id="@+id/btnChoose"/>
+        <ImageView
+            android:id="@+id/roundedimage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_action_user"
+            android:contentDescription="@string/user" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:text="@string/hello"
+        android:textColor="@color/yellow"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/userName"/>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp">
+        <TextView
+            android:id="@+id/email"
+            android:text="@string/hello"
+            android:textColor="@color/yellow"
+            android:layout_marginStart="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+        <TextView
+            android:id="@+id/phoneNumber"
+            android:text="@string/hi"
+            android:textColor="@color/yellow"
+            android:layout_marginStart="280dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@color/colorPrimaryDarker"
+        android:layout_marginTop="300dp">
+        <TextView
+            android:id="@+id/bio"
+            android:text="@string/biography"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:scaleType="centerCrop"
+            />
+        <TextView
+            android:id="@+id/detail"
+            android:text="@string/something_about_myself"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:textColor="@color/yellow"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView4"
+        android:layout_width="match_parent"
+        app:cardBackgroundColor="@color/colorPrimaryDarker"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="370dp">
+        <TextView
+            android:id="@+id/exp"
+            android:text="@string/experience"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+        <TextView
+            android:id="@+id/detail2"
+            android:text="@string/i_am_skilled_at_providing_these_types_of_services"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/yellow"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView5"
+        android:layout_width="match_parent"
+        app:cardBackgroundColor="@color/colorPrimaryDarker"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="440dp">
+        <TextView
+            android:id="@+id/pref"
+            android:text="@string/job_preferences"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+        <TextView
+            android:id="@+id/detail3"
+            android:text="@string/i_prefer_jobs_that"
+            android:layout_marginTop="30dp"
+            android:padding="10dp"
+            android:textColor="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/password"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@color/yellow"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="25dp"
+        android:layout_marginTop="550dp"
+        tools:ignore="UnknownIdInLayout">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/testNotif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="18sp"
+                android:text="@string/send_test_notification"
+                android:textColor="@color/colorPrimaryDarker"
+                android:textStyle="bold"/>
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/testNotify"
+            android:background="#0000"/>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sign_out"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/yellow"
+        android:layout_below="@+id/card"
+        android:layout_centerHorizontal="true"
+        android:onClick="SignOut"/>
+
+</RelativeLayout>
+</ScrollView>

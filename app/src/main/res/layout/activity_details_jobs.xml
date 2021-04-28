@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDarker">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/yellow"
+        tools:ignore="MissingConstraints" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/simple_easy_fast"
+            android:textSize="14sp"
+            android:fontFamily="@font/roboto"
+            android:layout_marginEnd="100dp"
+            android:layout_marginTop="50dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="100dp"
+            android:text="@string/gig_finder"
+            android:fontFamily="@font/roboto"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="28sp"
+            app:itemTextAppearance="@android:style/TextAppearance.Material.Headline"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/logo_home"
+        android:layout_width="151dp"
+        android:layout_height="107dp"
+        android:elevation="6dp"
+        android:src="@drawable/logo1"
+        android:layout_marginEnd="280dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/logo" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp">
+        <ImageView
+            android:id="@+id/detailsImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/leahs"
+            android:contentDescription="@string/details" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:textSize="30sp"
+        android:text="@string/aunt_leah_s_place"
+        android:textColor="@color/yellow"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/jobTitle"/>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_marginTop="250dp">
+        <TextView
+            android:id="@+id/desc"
+            android:text="@string/aunt"
+            android:background="@color/colorPrimaryDarker"
+            android:textColor="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimaryDarker"
+        android:backgroundTint="@color/colorPrimaryDarker"
+        android:layout_marginTop="350dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:id="@+id/phoneNumber"
+            android:text="@string/phone"
+            android:background="@color/colorPrimaryDarker"
+            android:drawableStart="@drawable/phone2"
+            android:drawableTint="@color/yellow"
+            android:autoLink="web"
+            android:textColorLink="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:textColor="@color/yellow"/>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp">
+        <TextView
+            android:id="@+id/email"
+            android:autoLink="email"
+            android:textColorLink="@color/yellow"
+            android:text="@string/auntemail"
+            android:drawableStart="@drawable/email"
+            android:textColor="@color/yellow"
+            android:background="@color/colorPrimaryDarker"
+            android:drawableTint="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp">
+        <TextView
+            android:id="@+id/Location"
+            android:text="@string/locate"
+            android:drawableStart="@drawable/location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:autoLink="map"
+            android:textColorLink="@color/yellow"
+            android:background="@color/colorPrimaryDarker"
+            android:textColor="@color/yellow"
+            android:drawableTint="@color/yellow"
+            android:scaleType="centerCrop"/>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDarker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp">
+        <TextView
+            android:id="@+id/Website"
+            android:text="@string/web"
+            android:textColor="@color/yellow"
+            android:background="@color/colorPrimaryDarker"
+            android:drawableTint="@color/yellow"
+            android:drawableStart="@drawable/website"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:autoLink="web"
+            android:textColorLink="@color/yellow"
+            android:scaleType="centerCrop"/>
+    </androidx.cardview.widget.CardView>
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@color/yellow"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="25dp"
+        android:layout_marginTop="600dp"
+        android:autoLink="email"
+        android:textColorLink="@color/yellow"
+        android:text="@string/auntemail">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/testNotif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="18sp"
+                android:text="@string/get_on_board"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:fontFamily="@font/roboto"/>
+        </RelativeLayout>
+
+        <Button
+            android:alpha="0.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/testNotify"
+            android:background="#0000"
+            android:autoLink="email"
+            android:textColorLink="@color/yellow"
+            android:text="@string/auntemail"/>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">GigFinder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabbed__page">Tabbed_Page</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="drafts">Drafts</string>
+    <string name="sent_items">Sent Items</string>
+    <string name="trash">Trash</string>
+    <string name="help">Help</string>
+    <string name="feedback">Feedback</string>
+    <string name="user_name">user@gigfinder.com</string>
+    <!-- menu items -->
+    <string name="nav_home">Home</string>
+    <string name="nav_nearbyjobs">Nearby Jobs</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_feedback">Give us feedback</string>
+    <string name="nav_open_drawer">Open Navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+    <string name="answer1"> &#8226;  You must be 18 years or older\n\n &#8226; You must have a valid social
+        security number or your business EIN \n\n &#8226; You must have access to a smartphone to
+        clock in and out of your job</string>
+
+    <string name="answer2">You’ll find a wide variety of jobs and industries, including:\n\n &#8226;
+        Warehouse operations\n &#8226; General labor\n &#8226; Delivery drivers\n &#8226; Washing and cleaning</string>
+
+    <string name="answer3">Simply head to the Google Play Store (Android) and
+                        search for the GigFinder app to download.\nOpen the app and
+                        submit all your relevant information in a matter of minutes.</string>
+
+    <string name="answer4">We understand that life events can disrupt your plans, so if you can’t make it to a job,
+        please make sure to immediately withdraw from the job in the GigFinder app.\n\n
+        Your opportunities to find future work through GigFinder may be limited if you fail to show up to
+        a job or withdraw with less than 12 hours’ notice. </string>
+
+    <string name="answer5">It’s possible to get started working within a day of signing up!\n
+        Exact timing depends on how quickly you complete the onboarding process
+        (including any background check that might be required to perform the specific job you accept)
+        as well as availability of jobs in your area.</string>
+
+    <string name="answer6">GigFinder provides a flexible way to work where and when you want.
+        Once you’re cleared to accept jobs, you can work anywhere.\nGigFinder is available as long as
+        you meet the requirements for that specific job.</string>
+    <string name="gig_finder">Gig Finder</string>
+    <string name="simple_easy_fast">Simple!! Easy!! Fast!!</string>
+    <string name="details">details</string>
+    <string name="logo">Logo</string>
+    <string name="hello">hello</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="location">Location</string>
+    <string name="website">Website</string>
+    <string name="get_on_board">Get on Board</string>
+    <string name="email">Email</string>
+    <string name="register_here">Register Here</string>
+    <string name="login">Login</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="enter_your_job_preference">Enter Your Job Preference</string>
+    <string name="enter_your_experience">Enter Your Experience</string>
+    <string name="enter_one_line_bio">Enter One line Bio</string>
+    <string name="register">Register</string>
+    <string name="user">user</string>
+    <string name="hi">Hi</string>
+    <string name="biography">Biography</string>
+    <string name="something_about_myself">Something about myself...</string>
+    <string name="experience">Experience</string>
+    <string name="i_am_skilled_at_providing_these_types_of_services">I am skilled at providing these types of services...</string>
+    <string name="job_preferences">Job Preferences</string>
+    <string name="i_prefer_jobs_that">I prefer jobs that...</string>
+    <string name="send_test_notification">Send Test Notification</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="addjob">addJob</string>
+    <string name="navimg">navImg</string>
+    <string name="how_you_rate_our_app">How you rate our app?</string>
+    <string name="send_to_server">Send</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="view_sent_details">View Sent Details</string>
+    <string name="your_rating">Your rating :</string>
+    <string name="email2">Email</string>
+    <string name="name2">Name</string>
+    <string name="password">Password</string>
+    <string name="job_training">Job Training</string>
+    <string name="anim">anim</string>
+    <string name="browse_jobs">Browse Jobs</string>
+    <string name="curious_about_what_jobs_are_available_near_you_n_nexplore_our_variety_of_potential_categories">Curious about what jobs are available near you ?    Explore our variety of potential categories !!</string>
+    <string name="are_you_running_out_of_workers_n_add_the_available_jobs_to_our_app_to_find_the_best_people_around_you_that_can_work_for_your_company">Are you running out of workers?   Add the available jobs to our app to find the best people around you that can work for your company !!    </string>
+    <string name="add_jobs">Add Jobs</string>
+    <string name="want_to_get_experience_through_various_events_this_exciting_feature_will_let_you_explore_about_the_most_relevant_events">Want to get experience through various events ?  This exciting feature will let you explore about the most relevant events !!    </string>
+    <string name="find_events">Find Events</string>
+    <string name="want_to_have_job_training_about_a_particular_job_this_will_help_you_to_get_the_necessary_training_required_for_your_job">Want to have job training about a particular job ?   This will help you to get the necessary training required for your job !!    </string>
+    <string name="what_are_the_requirements_to_work_with_gigfinder">What are the requirements to work with GigFinder ?</string>
+    <string name="what_kind_of_jobs_will_i_find_on_gigfinder">What kind of jobs will I find on GigFinder ?</string>
+    <string name="how_do_i_get_started">How do I get started ?</string>
+    <string name="what_if_i_can_no_longer_make_it_to_a_job">What if I can no longer make it to a job ?</string>
+    <string name="how_soon_can_i_get_started_working">How soon can I get started working ?</string>
+    <string name="where_and_when_can_i_work">Where and when can I work ?</string>
+    <string name="aunt_leah_s_place">Aunt Leah\'s Place</string>
+    <string name="aunt">Aunt Leah\'s Place has two employment programs: Bootstraps (skills development and job placements for youth from foster care) and Retail Training (a five week program learning how to navigate the retail industry)</string>
+    <string name="phone">(604)525-1204 ext.257 (Bootstraps)   (604)525-1204 ext.232 (Retail Training)</string>
+    <string name="auntemail">auntleahs@auntleahs.org</string>
+    <string name="locate">816 Twentieth St V3M 4W6</string>
+    <string name="web">https://auntleahs.org/services/education-training/</string>
+    <string name="upload">Upload</string>
+
+</resources>

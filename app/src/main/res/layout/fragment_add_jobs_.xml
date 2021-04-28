@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDarker"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".add_jobs_Fragment">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvJobs"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:cardCornerRadius="25dp"
+        app:cardBackgroundColor="@color/yellow"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_plus"
+            android:id="@+id/addImg"
+            android:contentDescription="@string/addjob" />
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

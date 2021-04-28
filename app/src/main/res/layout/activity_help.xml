@@ -1,0 +1,199 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".HelpActivity"
+        android:background="@color/colorPrimaryDarker">
+
+
+        <include
+            layout="@layout/toolbar_main"
+            android:id="@+id/toolbar" />
+
+
+        <TextView
+            android:id="@+id/qus1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/yellow"
+            android:textColor="@color/yellow"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="@string/what_are_the_requirements_to_work_with_gigfinder"
+            android:padding="10dp"
+            android:layout_margin="20dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ans1"
+            android:visibility="gone"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:text="@string/answer1"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:textColorHint="#9B870C"
+            android:textColor="#9B870C"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/qus2"
+            android:padding="10dp"
+            android:layout_margin="20dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="@string/what_kind_of_jobs_will_i_find_on_gigfinder"
+            android:textColorHint="@color/yellow"
+            android:textColor="@color/yellow"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ans2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:text="@string/answer2"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:visibility="gone"
+            android:textColorHint="#9B870C"
+            android:textColor="#9B870C"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:id="@+id/qus3"
+            android:layout_width="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_margin="20dp"
+            android:text="@string/how_do_i_get_started"
+            android:textColorHint="@color/yellow"
+            android:textColor="@color/yellow"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ans3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:text="@string/answer3"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:lineSpacingExtra="5dp"
+            android:visibility="gone"
+            android:textColorHint="#9B870C"
+            android:textColor="#9B870C"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:id="@+id/qus4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_margin="20dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="@string/what_if_i_can_no_longer_make_it_to_a_job"
+            android:textColorHint="@color/yellow"
+            android:textColor="@color/yellow"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ans4"
+            android:visibility="gone"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textColorHint="#9B870C"
+            android:textColor="#9B870C"
+            android:paddingBottom="10dp"
+            android:lineSpacingExtra="5dp"
+            android:text="@string/answer4"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:id="@+id/qus5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_margin="20dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="@string/how_soon_can_i_get_started_working"
+            android:textColorHint="@color/yellow"
+            android:textColor="@color/yellow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ans5"
+            android:visibility="gone"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:lineSpacingExtra="5dp"
+            android:text="@string/answer5"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColorHint="#9B870C"
+            android:textColor="#9B870C"/>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray"/>
+
+        <TextView
+            android:id="@+id/qus6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_margin="20dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="@string/where_and_when_can_i_work"
+            android:textColorHint="@color/yellow"
+            android:textColor="@color/yellow"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ans6"
+            android:visibility="gone"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:lineSpacingExtra="5dp"
+            android:text="@string/answer6"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColorHint="#9B870C"
+            android:textColor="#9B870C"/>
+
+    </LinearLayout>
+</ScrollView>
